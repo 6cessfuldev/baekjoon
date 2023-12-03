@@ -61,7 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				9DD4EBEE2B162D52009C4CBC /* baekjoon */,
-				9DD4EBFB2B162E9A009C4CBC /* no11660 */,
+				9DD4EBFB2B162E9A009C4CBC /* readLineMethods */,
 				9DD4EBED2B162D52009C4CBC /* Products */,
 			);
 			sourceTree = "<group>";
@@ -83,12 +83,12 @@
 			path = baekjoon;
 			sourceTree = "<group>";
 		};
-		9DD4EBFB2B162E9A009C4CBC /* no11660 */ = {
+		9DD4EBFB2B162E9A009C4CBC /* readLineMethods */ = {
 			isa = PBXGroup;
 			children = (
 				9DD4EBFC2B162E9A009C4CBC /* main.swift */,
 			);
-			path = no11660;
+			path = readLineMethods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
