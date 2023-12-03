@@ -35,7 +35,7 @@
 /* Begin PBXFileReference section */
 		9DD4EBEC2B162D52009C4CBC /* baekjoon */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = baekjoon; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DD4EBEF2B162D52009C4CBC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		9DD4EBFA2B162E9A009C4CBC /* no11660 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = no11660; sourceTree = BUILT_PRODUCTS_DIR; };
+		9DD4EBFA2B162E9A009C4CBC /* readLineMethods */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = readLineMethods; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DD4EBFC2B162E9A009C4CBC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -70,7 +70,7 @@
 			isa = PBXGroup;
 			children = (
 				9DD4EBEC2B162D52009C4CBC /* baekjoon */,
-				9DD4EBFA2B162E9A009C4CBC /* no11660 */,
+				9DD4EBFA2B162E9A009C4CBC /* readLineMethods */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -111,9 +111,9 @@
 			productReference = 9DD4EBEC2B162D52009C4CBC /* baekjoon */;
 			productType = "com.apple.product-type.tool";
 		};
-		9DD4EBF92B162E9A009C4CBC /* no11660 */ = {
+		9DD4EBF92B162E9A009C4CBC /* readLineMethods */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9DD4EBFE2B162E9A009C4CBC /* Build configuration list for PBXNativeTarget "no11660" */;
+			buildConfigurationList = 9DD4EBFE2B162E9A009C4CBC /* Build configuration list for PBXNativeTarget "readLineMethods" */;
 			buildPhases = (
 				9DD4EBF62B162E9A009C4CBC /* Sources */,
 				9DD4EBF72B162E9A009C4CBC /* Frameworks */,
@@ -123,9 +123,9 @@
 			);
 			dependencies = (
 			);
-			name = no11660;
+			name = readLineMethods;
 			productName = no11660;
-			productReference = 9DD4EBFA2B162E9A009C4CBC /* no11660 */;
+			productReference = 9DD4EBFA2B162E9A009C4CBC /* readLineMethods */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -160,7 +160,7 @@
 			projectRoot = "";
 			targets = (
 				9DD4EBEB2B162D52009C4CBC /* baekjoon */,
-				9DD4EBF92B162E9A009C4CBC /* no11660 */,
+				9DD4EBF92B162E9A009C4CBC /* readLineMethods */,
 			);
 		};
 /* End PBXProject section */
@@ -368,7 +368,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9DD4EBFE2B162E9A009C4CBC /* Build configuration list for PBXNativeTarget "no11660" */ = {
+		9DD4EBFE2B162E9A009C4CBC /* Build configuration list for PBXNativeTarget "readLineMethods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9DD4EBFF2B162E9A009C4CBC /* Debug */,
