@@ -1,6 +1,5 @@
 //
 //  main.swift
-//  no11660
 //
 //  Created by 육성민 on 11/28/23.
 //
