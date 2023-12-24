@@ -1,7 +1,7 @@
 코테 연습 기록장
 ==================
 
-<img src="resource/test.jpg" width="450px" height="300px" title="코태" alt="시험 이미지"></img><br/>
+<img src="test.jpg" width="450px" height="300px" title="코태" alt="시험 이미지"></img><br/>
 
 알고리즘 공부 내용을 저장해 놓기 위한 리포입니다.   
    
